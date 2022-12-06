@@ -1,0 +1,43 @@
+
+    h1 {
+        text-align: center;
+    }
+
+
+th {
+    background-color: rgb(59, 233, 68);
+    color: black;
+    height: 30px;
+}
+
+td {
+    color: rgb(12, 3, 3);
+}
+
+td:hover {
+    background-color: rgb(26, 219, 210);
+}
+
+.btn1 {
+    background-color: rgb(78, 236, 16);
+    height: 30px;
+    width: 100%;
+}
+
+.btn1:hover {
+    background-color: rgb(36, 212, 145);
+    color: black;
+    cursor: pointer;
+}
+
+.btn2 {
+    background-color: rgb(18, 138, 48);
+    height: 30px;
+    width: 100%;
+}
+
+.btn2:hover {
+    background-color: rgb(13, 209, 183);
+    color: black;
+    cursor: pointer;
+}
